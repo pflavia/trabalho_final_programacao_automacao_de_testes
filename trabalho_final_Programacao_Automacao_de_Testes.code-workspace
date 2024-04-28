@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "PGTAS"
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"compulim.vscode-mocha"
+		]
+	}
+}
